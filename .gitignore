@@ -1,0 +1,6 @@
+tmdb/
+.env
+__pycache__/
+*.csv
+*.pkl
+similarity.pkl
